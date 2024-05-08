@@ -13,7 +13,7 @@ I’d love to combine my passion for data with my ML/DL to build a smart solutio
 
 <table>
   <tr>
-    <th style="width: 290px;">Data Science and Analysis Tools</th>
+    <th style="width: 290px;">Data Science Tools</th>
     <th style="width: 290px;"></th>
     <th style="width: 290px;"></th>
     <th style="width: 290px;"></th>
