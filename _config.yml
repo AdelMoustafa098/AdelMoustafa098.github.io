@@ -18,7 +18,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/10v-AYunJXOYE2P-3P0tFTcEpA59BdKYq/view?usp=sharing
 
 url: https://adelmoustafa098.github.io
 # your url: https://USERNAME.github.io
@@ -37,6 +37,7 @@ disqus:
 # facebook: myfacebook
 # twitter: mytwitter
 # instagram: myinstagram
+hackerank: moussa_adel939
 linkedin: adelmoussa
 github: adelmoustafa098
 email: moussa.adel939@gmail.com
@@ -44,7 +45,7 @@ email: moussa.adel939@gmail.com
 authors:
   AdelMoussa:
     name: Adel Moussa
-    bio: Machine Learning and Data Analyst Intern at Si-Ware Systems
+    bio: Machine Learning and Data Analyst Engineer
     external-image: false
     picture: assets/images/adel_pic.JPG 
   # jamesfoster:
