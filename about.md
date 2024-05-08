@@ -11,7 +11,7 @@ I’d love to combine my passion for data with my ML/DL to build a smart solutio
 
 
 ### Data Science and Analysis Tools
-|    |   |  | |
+|   a |   |  | |
 | :---------------- | :------ | :---- | :----| 
 |   AWS                |     Scikit-learn   |   TensorFlow |   Keras|
 |   Pytorch            |     NumPy          |   Pandas     |   Streamlit|
@@ -21,7 +21,7 @@ I’d love to combine my passion for data with my ML/DL to build a smart solutio
 
 
 ### Programming language
-|     |   		  |  	   | 		|	   |
+|    a |   		  |  	   | 		|	   |
 | :----   | :------ | :---- | :---- |:----|
 |   Python    |      C++   |   Java   |    C 	| 	  R  |
 
