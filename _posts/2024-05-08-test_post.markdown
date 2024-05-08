@@ -4,6 +4,7 @@ layout: post
 date: 2024-05-08 6:11
 image: https://cdn.pixabay.com/photo/2014/06/03/19/38/board-361516_1280.jpg
 headerImage: True
+projects: true
 tag:
 - markdown
 - elements
