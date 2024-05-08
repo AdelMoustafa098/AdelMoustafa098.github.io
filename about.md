@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
-
+<br>
 <h2>Summary</h2>
 
 <p>A highly motivated person, I graduated from the Faculty of Engineering at Cairo University with a GPA of 3.4. I am currently studying for a diploma in Data Science and Cloud Computing at DEBI. I have almost two years of experience in data science, including data analysis, developing, testing, and optimizing machine learning models.
@@ -16,10 +16,10 @@ I’d love to combine my passion for data with my experience in ML/DL to build s
 
 <table>
   <tr>
-    <th style="width: 290px;">Data Science Tools</th>
-    <th style="width: 290px;"></th>
-    <th style="width: 290px;"></th>
-    <th style="width: 290px;"></th>
+    <th style="width: 250px;">Data Science Tools</th>
+    <th style="width: 250px;"></th>
+    <th style="width: 250px;"></th>
+    <th style="width: 250px;"></th>
   </tr>
   <tr>
     <td>AWS</td>
