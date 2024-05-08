@@ -10,16 +10,16 @@ I’d love to combine my passion for data with my ML/DL to build a smart solutio
 <h2>Skills</h2>
 
 
-| Data Science and Analysis Tools|   |  | |
+| <div style="width:210px"> Data Science and Analysis Tools <div>  |   <div style="width:210px"><div>            |       <div style="width:210px"><div>      |   <div style="width:210px"><div>     |
 | :---------------- | :------ | :---- | :----| 
 | ▪ AWS                |   ▪ Scikit-learn   | ▪ TensorFlow | ▪ Keras|
 | ▪ Pytorch            |   ▪ NumPy          | ▪ Pandas     | ▪ Streamlit|
 | ▪ Seaborn   		 |  ▪ Matplotlib      | ▪ Plotly 	 | ▪ NLTK |
 | ▪ SQL       		 |  ▪ Web scraping    | ▪ Tableau 	 |▪ Linux|
 
-<br> </br>
 
-| Programming language |   		  |  	   | 		|	   |
+
+| <div style="width:200px">Programming language<div>  | <div style="width:200px"><div>  		|  	<div style="width:200px"><div>    | <div style="width:200px"><div> 		|	 <div style="width:200px"><div>   |
 | :----   | :------ | :---- | :---- |:----|
 | ▪ Python    |    ▪ C++   | ▪ Java   | 	▪ C 	| 	▪ R  |
 
