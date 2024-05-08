@@ -1,9 +1,9 @@
 ---
 title: "Testing Adding Post"
 layout: post
-date: 2024-05-08 6:11 PM
+date: 2024-05-08 6:11
 image: /assets/images/adel_pic.jpg
-headerImage: false
+headerImage: True
 tag:
 - markdown
 - elements
@@ -15,3 +15,5 @@ description: Testing Adding New Posts
 
 ## Basic formatting Testing
 ![](/assets/images/adel_pic.jpg)
+
+test text
