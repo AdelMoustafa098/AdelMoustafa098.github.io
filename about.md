@@ -10,18 +10,57 @@ I’d love to combine my passion for data with my ML/DL to build a smart solutio
 <h2>Skills</h2>
 
 
-| <div style="width:210px"> Data Science and Analysis Tools <div>  |   <div style="width:210px"><div>            |       <div style="width:210px"><div>      |   <div style="width:210px"><div>     |
-| :---------------- | :------ | :---- | :----| 
-| ▪ AWS                |   ▪ Scikit-learn   | ▪ TensorFlow | ▪ Keras|
-| ▪ Pytorch            |   ▪ NumPy          | ▪ Pandas     | ▪ Streamlit|
-| ▪ Seaborn   		 |  ▪ Matplotlib      | ▪ Plotly 	 | ▪ NLTK |
-| ▪ SQL       		 |  ▪ Web scraping    | ▪ Tableau 	 |▪ Linux|
 
+<table>
+  <tr>
+    <th style="width: 250px;">Data Science and Analysis Tools</th>
+    <th style="width: 250px;"></th>
+    <th style="width: 250px;"></th>
+    <th style="width: 250px;"></th>
+  </tr>
+  <tr>
+    <td>AWS</td>
+    <td>Scikit-learn</td>
+    <td>TensorFlow</td>
+    <td>Keras</td>
+  </tr>
+  <tr>
+    <td>Pytorch</td>
+    <td>NumPy</td>
+    <td>Pandas</td>
+    <td>Streamlit</td>
+  </tr>
+  <tr>
+    <td>Seaborn</td>
+    <td>Matplotlib</td>
+    <td>Plotly</td>
+    <td>NLTK</td>
+  </tr>
+  <tr>
+    <td>SQL</td>
+    <td>Web scraping</td>
+    <td>Tableau</td>
+    <td>Linux</td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <th style="width: 250px;">Programming Language</th>
+    <th style="width: 250px;"></th>
+    <th style="width: 250px;"></th>
+    <th style="width: 250px;"></th>
+    <th style="width: 250px;"></th>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>C++</td>
+    <td>Java</td>
+    <td>C</td>
+    <td>R</td>
+  </tr>
+</table>
 
-| <div style="width:200px">Programming language<div>  | <div style="width:200px"><div>  		|  	<div style="width:200px"><div>    | <div style="width:200px"><div> 		|	 <div style="width:200px"><div>   |
-| :----   | :------ | :---- | :---- |:----|
-| ▪ Python    |    ▪ C++   | ▪ Java   | 	▪ C 	| 	▪ R  |
 
 <h2>Projects</h2>
 
