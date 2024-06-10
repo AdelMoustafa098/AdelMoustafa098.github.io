@@ -68,7 +68,5 @@ I’d love to combine my passion for data with my experience in ML/DL to build s
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://image-processing-webapp-adelmoussa.streamlit.app/">Image Processing Web App</a></li>
 </ul>
