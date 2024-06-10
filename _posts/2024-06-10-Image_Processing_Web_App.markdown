@@ -2,7 +2,7 @@
 title: "Image Processing Web App"
 layout: post
 date: 2024-06-10 2:51
-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.simplilearn.com%2Fimage-processing-article&psig=AOvVaw24Y-Q4TRe1ecOeDKYPcf9p&ust=1718109158901000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCE_JKG0YYDFQAAAAAdAAAAABAE
+image: https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg
 headerImage: True
 projects: true
 tag:
@@ -13,11 +13,12 @@ category: blog
 author: Adel Moussa
 description: Image Processing Web App Using Python and Streamlit
 ---
+<h1 style="text-align: center;">Image Processing</h1>
 
-# Image Processing
+<div style="text-align: center;">
+
 ![image_process](https://github.com/AdelMoustafa098/AdelMoustafa098/assets/43845826/c758413a-cf6a-4bae-ab26-a654f4cf4d1c)
-
-
+</div>
 
 In today's digital era, the power of visual data is undeniable. From enhancing photos to detecting objects, 
 image processing has revolutionized the way we interpret and manipulate images. Image processing involves 
