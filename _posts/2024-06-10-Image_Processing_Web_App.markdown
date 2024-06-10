@@ -17,8 +17,11 @@ description: Image Processing Web App Using Python and Streamlit
 
 
 <div style="text-align: center;">
+https://github.com/AdelMoustafa098/AdelMoustafa098/assets/43845826/c758413a-cf6a-4bae-ab26-a654f4cf4d1c
 
-![image_process](https://github.com/AdelMoustafa098/AdelMoustafa098/assets/43845826/c758413a-cf6a-4bae-ab26-a654f4cf4d1c "page_img")
+![image_process](https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg "page_img")
+
+
 </div>
 
 In today's digital era, the power of visual data is undeniable. From enhancing photos to detecting objects, 
