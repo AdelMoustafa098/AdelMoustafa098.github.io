@@ -1,7 +1,7 @@
 ---
 title: "ClimAct"
 layout: post
-date: 2024-11-063 5:13
+date: 2024-11-06 5:13
 image: https://www.environmental-project.org/wp-content/uploads/AdobeStock_573925621-scaled.jpeg
 headerImage: True
 projects: true
