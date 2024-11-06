@@ -69,4 +69,6 @@ I’d love to combine my passion for data with my experience in ML/DL to build s
 
 <ul>
 	<li><a href="https://image-processing-webapp-adelmoussa.streamlit.app/">Image Processing Web App</a></li>
+	<li><a href="https://github.com/AdelMoustafa098/ClimAct">ClimAct</a></li>
+	<li><a href="https://github.com/AdelMoustafa098/Autonomous_car">Autonomous_car</a></li>
 </ul>
