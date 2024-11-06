@@ -17,4 +17,3 @@ description: intelligent assistant for understanding and combating the effects o
 ---
 <h1 style="text-align: center;">ClimAct</h1>
 <h2 style="text-align: center;">Your intelligent assistant for understanding and combating the effects of climate change.</h2>
-
