@@ -44,7 +44,7 @@ generates targeted solutions for climate adaptation and mitigation.
 
 The following image shows AWS cloud architecture  that is used to host and power the application.
 
-![/assets/images/AWS_Arch.JPG]()  
+<iframe src="https://drive.google.com/file/d/1FTe2oSkGjYqqR6EYyFVqEWIOZIPntPEa/preview" width="720" height="480" allow="autoplay"></iframe>
 
 the work flow is as following:
 
@@ -94,4 +94,4 @@ the work flow is as following:
 
 ## Demo  
 
-<iframe src="https://drive.google.com/file/d/10q-_Zj9iO8iojHxvCWj9ZEnYkzpC0hnp/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/10q-_Zj9iO8iojHxvCWj9ZEnYkzpC0hnp/preview" width="720" height="480" allow="autoplay"></iframe>
